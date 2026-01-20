@@ -1202,7 +1202,7 @@ Every step I take
         info_frame = ctk.CTkFrame(card, fg_color="transparent")
         info_frame.grid(row=0, column=1, padx=15, pady=10, sticky="nw")
 
-        metadata = song.get("metadata", {})
+        metadata = song.get("metadata") or {}
         style_info = metadata.get("style", "Unknown Style")
         genre_info = metadata.get("genre", "")
         type_info = metadata.get("type", "")
