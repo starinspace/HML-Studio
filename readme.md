@@ -45,6 +45,7 @@ Copy:
 start_studio.bat
 requirements.txt
 gui.py
+assets (folder)
 ```
 to the root folder of heartlib.
 cmd from folder
