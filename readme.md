@@ -1,5 +1,10 @@
+<img width="1920" height="1032" alt="bild" src="https://github.com/user-attachments/assets/92c6215d-a7e7-4978-ab29-873c0e5e5ad9" />
+
+
 ## TO DO
 Upload files
+Fix the "black line" on the cover (should be transparent)
+fix the progress bar for playing song (it "works" but when changing possition it starts to play correctly but the progress bar go to 0)
 
 ## Install HeartMuLa
 
