@@ -50,3 +50,6 @@ Open start_studio.bat
 thats it, you will see the progress in CMD.
 
 I will add more features to modify and make faster generations. I sort of thinking on adding seed so its possible to create a 10-15 seconds clip and if you like it continue creating the full.
+
+License:
+I will update this!
