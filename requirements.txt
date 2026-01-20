@@ -1,0 +1,7 @@
+# Install with: pip install -r requirements.txt
+
+customtkinter>=5.2.0
+Pillow>=10.0.0
+pygame>=2.5.0
+darkdetect>=0.8.0
+tkinterdnd2>=0.4.0
