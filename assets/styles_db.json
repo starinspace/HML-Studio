@@ -1,0 +1,19 @@
+{
+  "styles": {
+    "Warm Reflection Pop Cafe": ["Emotional", "Melancholy", "Soft", "Ambient", "Pop"],
+    "Energetic Electronic Self-Discovery": ["Aggressive", "Banger", "Power", "Electronic", "Synthpop"],
+    "Soft Sad Ballad Longing": ["Sad", "Melancholy", "Soft", "Ambient", "Ballad"],
+    "Meditation Faith Acoustic Peaceful": ["Ethereal", "Majestic", "Ambient", "Minimal", "Traditional"],
+    "Romantic Wedding Piano Strings": ["Emotional", "Anthemic", "Soft", "Lyrical", "Traditional"],
+    "Energetic Driving Rock Electric Guitar": ["Aggressive", "Power", "Stadium", "Rock", "Hardcore Punk"],
+    "Cold Dark Atmospheric Sinister": ["Dark", "Atmospheric", "Cold", "Sinister", "Doom"],
+    "Dance Festive Groovy Mid-Tempo": ["Dance", "Festive", "Groovy", "Mid-Tempo", "Dance Pop"],
+    "Mysterious Ethereal Majestic Magical": ["Ethereal", "Majestic", "Mysterious", "Magical", "Cinematic"],
+    "Theatrical Broadway Cabaret Storytelling": ["Broadway", "Cabaret", "Theatrical", "Storytelling", "Lyrical"],
+    "Tribal Middle East World Ethnic": ["Tribal", "Middle East", "World/Ethnic", "Arabic", "Traditional"],
+    "Sparse Ambient Minimal Cinematic": ["Ambient", "Minimal", "Sparse", "Cinematic", "Downtempo"],
+    "Anthemic Happy Jubilant Emotion": ["Anthemic", "Happy", "Jubilant", "Emotional", "Pop"],
+    "Glitchy Weird Haunted Carnival": ["Weird", "Carnival", "Glitchy", "Haunted", "Distorted"],
+    "Power Stadium Stomp Hard Aggressive": ["Hard", "Aggressive", "Banger", "Power", "Stadium", "Stomp"]
+  }
+}
