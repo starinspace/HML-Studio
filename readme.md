@@ -52,6 +52,7 @@ cmd from folder
 ```bash
 pip install -r requirements.txt
 ```
+install requirements.txt in the created conda enviroment "conda activate heartlib" with pip install -r requirements.txt
 Open start_studio.bat
 thats it, you will see the progress in CMD.
 
